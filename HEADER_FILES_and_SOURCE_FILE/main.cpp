@@ -24,7 +24,7 @@
 #include "X.h"
 #include "Y.h"
 #include "Z.h"
-#include "SPACES.h"
+#include "SPACE.h"
 #include <iostream>
 #include <iomanip>
 #include <string>
