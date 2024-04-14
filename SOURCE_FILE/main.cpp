@@ -3,7 +3,6 @@
 #include "C.h"
 #include <iostream>
 #include <iomanip>
-#include <iostream>
 #include <string>
 #include <cctype>
 
