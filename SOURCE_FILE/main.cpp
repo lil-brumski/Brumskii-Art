@@ -7,7 +7,6 @@
 #include <iostream>
 #include <string>
 #include <cctype>
-#include <array>
 
 bool isLettersOnly(const std::string& input) {
     for (size_t i = 0; i < input.length(); ++i) {
