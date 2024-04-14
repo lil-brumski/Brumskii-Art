@@ -1,4 +1,4 @@
-##YOUR NAME USING ASCII CHARACTERS:
+#YOUR NAME USING ASCII CHARACTERS:
 
 You're to enter your full name or one of your names (only letters, don't enter numbers).
 
