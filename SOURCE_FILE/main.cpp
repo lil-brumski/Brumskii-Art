@@ -1,16 +1,9 @@
-//#include "A.h"
-//#include "B.h"
-//#include "C.h"
+#include "A.h"
+#include "B.h"
+#include "C.h"
 #include <iostream>
 #include <iomanip>
 #include <cctype>
-
-#include "/storage/emulated/0/Documents/Cxxdroid/YOUR_NAME_USING_ASCII_CHARACTERS/HEADER_FILES/A.h"
-
-#include "/storage/emulated/0/Documents/Cxxdroid/YOUR_NAME_USING_ASCII_CHARACTERS/HEADER_FILES/B.h"
-
-#include "/storage/emulated/0/Documents/Cxxdroid/YOUR_NAME_USING_ASCII_CHARACTERS/HEADER_FILES/C.h"
-
 #include <iostream>
 #include <string>
 #include <cctype>
