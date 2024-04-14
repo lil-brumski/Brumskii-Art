@@ -5,7 +5,7 @@
 #include <iomanip>
 
 void B(){
-    int b = 30;
+    int b = 55;
     std::cout<<std::setfill('.');
     
     std::cout<<std::right<<std::setw(b)<<"......"<<std::left<<std::setw(b)<<"......"<<std::endl;
