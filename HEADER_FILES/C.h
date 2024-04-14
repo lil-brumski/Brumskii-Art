@@ -5,7 +5,7 @@
 #include <iomanip>
 	 
 void C(){
-    int c = 30;
+    int c = 28;
     std::cout<<std::setfill('.');
     
     std::cout<<std::right<<std::setw(c)<<"......"<<std::left<<std::setw(c)<<"......"<<std::endl;
