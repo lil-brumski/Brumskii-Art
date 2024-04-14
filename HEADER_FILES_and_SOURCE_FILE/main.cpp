@@ -70,7 +70,7 @@ int main() {
         case 'c':
                C();
                break;                  
-        /*case 'd':
+        case 'd':
             D();
             break;
         case 'e':
@@ -141,7 +141,7 @@ int main() {
             break;    
         case ' ':
             SPACES();
-            break;*/
+            break;
         default:
              std::cout<<"Invalid character"<<std::endl;                                 
       }
