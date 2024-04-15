@@ -1,6 +1,6 @@
 *__#YOUR NAME USING ASCII CHARACTERS:__*
 
-*You're to enter your full name or one of your names (only letters, don't enter numbers).*
+__You're to enter your full name or one of your names (only letters, don't enter numbers).__
 
 To run this text based project on your device:
 1. Use a terminal/command-line.
