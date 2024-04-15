@@ -13,6 +13,8 @@ To run this text based project on your device:
 *Made by David Tamaratare Oghenebrume;
 A Computer Engineering Student of Rivers State University, Nigeria.*
 
-*Project Development Duration: April 14th - xxx (x days).*
+*Project Development Duration: April 14th - xxx (x days):*
+*1st day: 6 files.*
+*2nd day: 2 files.*
 
 *Development in Progress, this project isn't complete. 8/28 files ready*
