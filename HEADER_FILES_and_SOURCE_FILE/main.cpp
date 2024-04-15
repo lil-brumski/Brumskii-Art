@@ -24,7 +24,7 @@
 //#include "X.h"
 //#include "Y.h"
 //#include "Z.h"
-//#include "SPACE.h"
+#include "SPACE.h"
 #include <iostream>
 #include <iomanip>
 #include <string>
@@ -153,10 +153,10 @@ int main() {
             break;
         case 'z':
             Z();
-            break;    
+            break;*/   
         case ' ':
             SPACES();
-            break;*/
+            break;
         default:
              std::cout<<"Invalid character"<<std::endl;                                 
       }
