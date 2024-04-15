@@ -7,4 +7,4 @@ A Computer Engineering Student of Rivers State University, Nigeria.*
 
 *Project Development Duration: April 14th - xxx (x days).*
 
-*Development in Progress, this project isn't complete.*
+*Development in Progress, this project isn't complete. 7/28 files ready*
