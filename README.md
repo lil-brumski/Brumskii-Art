@@ -14,7 +14,9 @@ __Made by David Tamaratare Oghenebrume;
 A Computer Engineering Student of Rivers State University, Nigeria.__
 
 *Project Development Duration: April 14th - xxx (x days):*
+
 *1st day: 6 files.*
+
 *2nd day: 2 files.*
 
 *Development in Progress, this project isn't complete. 8/28 files ready*
