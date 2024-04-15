@@ -3,7 +3,7 @@
 #include "C.h"
 #include "D.h"
 #include "E.h"
-//#include "F.h"
+#include "F.h"
 //#include "G.h"
 //#include "H.h"
 //#include "I.h"
@@ -91,10 +91,10 @@ int main() {
         case 'e':
             E();
             break;
-        /*case 'f':
+        case 'f':
             F();
             break;
-        case 'g':
+        /*case 'g':
             G();
             break;
         case 'h':
