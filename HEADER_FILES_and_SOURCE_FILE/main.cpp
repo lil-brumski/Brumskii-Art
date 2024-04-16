@@ -17,7 +17,7 @@
 //#include "Q.h"
 //#include "R.h"
 //#include "S.h"
-//#include "T.h"
+#include "T.h"
 //#include "U.h"
 //#include "V.h"
 //#include "W.h"
@@ -132,11 +132,11 @@ int main() {
             break;
         case 's':
             S();
-            break;
+            break;*/
         case 't':
             T();
             break;
-        case 'u':
+        /*case 'u':
             U();
             break;
         case 'v':
