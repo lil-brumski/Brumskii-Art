@@ -6,8 +6,8 @@
 #include "F.h"
 #include "G.h"
 #include "H.h"
-//#include "I.h"
-//#include "J.h"
+#include "I.h"
+#include "J.h"
 //#include "K.h"
 //#include "L.h"
 //#include "M.h"
@@ -100,13 +100,13 @@ int main() {
         case 'h':
             H();
             break;
-        /*case 'i':
+        case 'i':
             I();
             break;
         case 'j':
             J();
             break;
-        case 'k':
+        /*case 'k':
             K();
             break;
         case 'l':
