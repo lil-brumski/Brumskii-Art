@@ -21,7 +21,7 @@
 #include "U.h"
 #include "V.h"
 #include "W.h"
-//#include "X.h"
+#include "X.h"
 //#include "Y.h"
 //#include "Z.h"
 #include "SPACE.h"
@@ -145,10 +145,10 @@ int main() {
         case 'w':
             W();
             break;
-        /*case 'x':
+        case 'x':
             X();
             break;
-        case 'y':
+        /*case 'y':
             Y();
             break;
         case 'z':
