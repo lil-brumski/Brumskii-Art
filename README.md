@@ -19,6 +19,6 @@ A Computer Engineering Student of Rivers State University, Nigeria.__
 
 *2nd day: 3 files.*
 
-*3rd day: 14 files.*
+*3rd day: 15 files.*
 
-*Development in Progress, this project isn't complete. 23/28 files ready*
+*Development in Progress, this project isn't complete. 24/28 files ready*
