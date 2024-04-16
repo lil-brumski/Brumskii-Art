@@ -14,8 +14,8 @@
 #include "N.h"
 #include "O.h"
 #include "P.h"
-//#include "Q.h"
-//#include "R.h"
+#include "Q.h"
+#include "R.h"
 //#include "S.h"
 #include "T.h"
 //#include "U.h"
@@ -124,13 +124,13 @@ int main() {
         case 'p':
             P();
             break;
-        /*case 'q':
+        case 'q':
             Q();
             break;
         case 'r':
             R();
             break;
-        case 's':
+        /*case 's':
             S();
             break;*/
         case 't':
