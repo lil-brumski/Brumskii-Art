@@ -16,10 +16,10 @@
 #include "P.h"
 #include "Q.h"
 #include "R.h"
-//#include "S.h"
+#include "S.h"
 #include "T.h"
 #include "U.h"
-//#include "V.h"
+#include "V.h"
 #include "W.h"
 //#include "X.h"
 //#include "Y.h"
@@ -130,18 +130,18 @@ int main() {
         case 'r':
             R();
             break;
-        /*case 's':
+        case 's':
             S();
-            break;*/
+            break;
         case 't':
             T();
             break;
         case 'u':
             U();
             break;
-        /*case 'v':
+        case 'v':
             V();
-            break;*/
+            break;
         case 'w':
             W();
             break;
