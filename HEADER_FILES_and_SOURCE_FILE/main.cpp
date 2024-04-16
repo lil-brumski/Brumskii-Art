@@ -18,9 +18,9 @@
 #include "R.h"
 //#include "S.h"
 #include "T.h"
-//#include "U.h"
+#include "U.h"
 //#include "V.h"
-//#include "W.h"
+#include "W.h"
 //#include "X.h"
 //#include "Y.h"
 //#include "Z.h"
@@ -136,16 +136,16 @@ int main() {
         case 't':
             T();
             break;
-        /*case 'u':
+        case 'u':
             U();
             break;
-        case 'v':
+        /*case 'v':
             V();
-            break;
+            break;*/
         case 'w':
             W();
             break;
-        case 'x':
+        /*case 'x':
             X();
             break;
         case 'y':
