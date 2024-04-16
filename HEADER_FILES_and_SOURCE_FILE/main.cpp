@@ -10,8 +10,8 @@
 #include "J.h"
 #include "K.h"
 #include "L.h"
-//#include "M.h"
-//#include "N.h"
+#include "M.h"
+#include "N.h"
 //#include "O.h"
 //#include "P.h"
 //#include "Q.h"
@@ -112,13 +112,13 @@ int main() {
         case 'l':
             L();
             break;
-        /*case 'm':
+        case 'm':
             M();
             break;
         case 'n':
             N();
             break;
-        case 'o':
+        /*case 'o':
             O();
             break;
         case 'p':
