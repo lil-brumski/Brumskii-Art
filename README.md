@@ -24,10 +24,15 @@ A Computer Engineering Student of Rivers State University, Nigeria.__
 *This project is complete. 28/28 files ready*
 
 A.h -> F.h: 203 lines (134 lines used)
+
 G.h -> L.h: 178 lines (
+
 M.h -> R.h: 185 lines (
+
 S.h -> X.h: 191 lines (
+
 Y.h -> Z.h && SPACE.h: 83 lines (
+
 main.cpp:  166 lines (
 
 Total lines: 1006 lines
