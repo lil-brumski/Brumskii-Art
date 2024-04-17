@@ -25,16 +25,16 @@ A Computer Engineering Student of Rivers State University, Nigeria.__
 
 A.h -> F.h: 203 lines (134 lines used)
 
-G.h -> L.h: 178 lines (
+G.h -> L.h: 178 lines (110 lines used)
 
-M.h -> R.h: 185 lines (
+M.h -> R.h: 185 lines (115 lines used)
 
-S.h -> X.h: 191 lines (
+S.h -> X.h: 191 lines (116 lines used)
 
-Y.h -> Z.h && SPACE.h: 83 lines (
+Y.h -> Z.h && SPACE.h: 83 lines (53 lines used)
 
-main.cpp:  166 lines (
+main.cpp:  166 lines (10 lines)
 
 __Total lines of code: 1006 lines__
 
-__Total lines of code utilised:__
+__Total lines of code utilised: 538 lines__
