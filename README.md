@@ -35,5 +35,6 @@ Y.h -> Z.h && SPACE.h: 83 lines (
 
 main.cpp:  166 lines (
 
-Total lines: 1006 lines
-Total lines utilised: 
+__Total lines: 1006 lines__
+
+__Total lines utilised:__
