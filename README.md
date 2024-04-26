@@ -13,7 +13,7 @@ To run this text based project on your device:
 __Made by David Tamaratare Oghenebrume;
 A Computer Engineering Student of Rivers State University, Nigeria.__
 
-*Project Development Duration: April 14th - April 16th (3 days):*
+*Project Development Duration: April 14th - April 16th, April 26th(4 days):*
 
 *1st day: 6 files.*
 
@@ -21,7 +21,9 @@ A Computer Engineering Student of Rivers State University, Nigeria.__
 
 *3rd day: 19 files.*
 
-*This project is complete. 28/28 files ready*
+*4th day: 1 file.*
+
+*This project is complete. 29/29 files ready*
 
 A.h -> F.h: 203 lines (134 lines used)
 
@@ -33,8 +35,10 @@ S.h -> X.h: 191 lines (116 lines used)
 
 Y.h -> Z.h && SPACE.h: 83 lines (53 lines used)
 
+boolean_functions.h: 29 lines (24 lines used)
+
 main.cpp:  144 lines (139 lines)
 
-__Total lines: 984 lines__
+__Total lines: 1013 lines__
 
-__Total lines with code or comment: 667 lines__
+__Total lines with code or comment: 691 lines__
