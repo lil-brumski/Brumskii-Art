@@ -1,31 +1,31 @@
-#include "HEADER_FILES_and_SOURCE_FILE/A.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/B.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/C.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/D.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/E.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/F.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/G.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/H.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/I.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/J.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/K.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/L.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/M.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/N.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/O.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/P.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/Q.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/R.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/S.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/T.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/U.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/V.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/W.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/X.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/Y.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/Z.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/SPACE.hpp"
-#include "HEADER_FILES_and_SOURCE_FILE/boolean_functions.hpp"
+#include "../HEADER_FILES/A.hpp"
+#include "../HEADER_FILES/B.hpp"
+#include "../HEADER_FILES/C.hpp"
+#include "../HEADER_FILES/D.hpp"
+#include "../HEADER_FILES/E.hpp"
+#include "../HEADER_FILES/F.hpp"
+#include "../HEADER_FILES/G.hpp"
+#include "../HEADER_FILES/H.hpp"
+#include "../HEADER_FILES/I.hpp"
+#include "../HEADER_FILES/J.hpp"
+#include "../HEADER_FILES/K.hpp"
+#include "../HEADER_FILES/L.hpp"
+#include "../HEADER_FILES/M.hpp"
+#include "../HEADER_FILES/N.hpp"
+#include "../HEADER_FILES/O.hpp"
+#include "../HEADER_FILES/P.hpp"
+#include "../HEADER_FILES/Q.hpp"
+#include "../HEADER_FILES/R.hpp"
+#include "../HEADER_FILES/S.hpp"
+#include "../HEADER_FILES/T.hpp"
+#include "../HEADER_FILES/U.hpp"
+#include "../HEADER_FILES/V.hpp"
+#include "../HEADER_FILES/W.hpp"
+#include "../HEADER_FILES/X.hpp"
+#include "../HEADER_FILES/Y.hpp"
+#include "../HEADER_FILES/Z.hpp"
+#include "../HEADER_FILES/SPACE.hpp"
+#include "../HEADER_FILES/boolean_functions.hpp"
 #include <iostream>
 #include <iomanip>
 #include <string>
@@ -36,12 +36,12 @@ int main() {
     std::string name;
     std::cout << "Enter your name: ";
     std::getline(std::cin, name);
-     
+
      //This loop converts the input to lowercase.
     for (size_t x = 0; x < name.length(); x++) {
         name[x] = std::tolower(name[x]);
     }
-    
+
     //This while loop checks if the user entered an empty input or input that contains numbers or input that has two or more consecutive spaces.
     while (name.empty() || !isLettersOnly(name) ||   hasConsecutiveSpaces(name)) {
         std::cout << "Invalid input. Please enter a valid name: ";
@@ -50,7 +50,7 @@ int main() {
             name[x] = std::tolower(name[x]);
         }
     }
-    
+
    //For loop gets the ASCII character for each letter in the user's name.
   for(int x = 0; x < name.length(); x++){             
      switch(name[x]){
@@ -139,6 +139,6 @@ int main() {
              std::cout<<"Invalid character"<<std::endl;                                 
       }
   }
-  
+
     return 0;
 }
