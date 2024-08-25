@@ -13,7 +13,11 @@ You're to enter your full name or one of your names (only letters, don't enter n
 To run this text based project on your device:
 1. Use a terminal/command-line.
 2. Type *"cd"* and then the location on your device that you want to download this project to.
+<<<<<<< HEAD
 3. Enter *git clone https://github.com/lil-brumski/YOUR_NAME_USING_ASCII_CHARACTERS.git* in the file path that you've selected.
+=======
+3. Enter *git clone https://github.com/lil-brumski/Brumskii-Art* in the file path that you've selected.
+>>>>>>> 515fce0 (Small changes)
 4. Run *mkdir build && cd build/*.
 5. Run *cmake .. && make* in the *build/* directory.
 
