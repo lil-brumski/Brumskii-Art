@@ -20,6 +20,7 @@ To run this text based project on your device:
 >>>>>>> 515fce0 (Small changes)
 4. Run *mkdir build && cd build/*.
 5. Run *cmake .. && make* in the *build/* directory.
+6. Give the *Brumskii-Art* file necessary permissions using *chmod +x Brumskii-Art* and enter *./Brumskii-Art*
 
 __Made by David Tamaratare Oghenebrume;
 A Computer Engineering Student of Rivers State University, Nigeria.__
