@@ -1,4 +1,12 @@
-*__#YOUR NAME USING ASCII CHARACTERS:__*
+*__Brumskii-Art:__*
+
+This project is meant for taking a user's name and displaying it back using ASCII characters.
+
+Things required to use this project: 
+*1. A C++ compiler e.g clang, gcc, etc.*
+*2. Cmake.*
+
+To install the necessary tools for testing this project, open a working terminal and enter: *git install clang cmake git*.
 
 You're to enter your full name or one of your names (only letters, don't enter numbers).
 
@@ -6,39 +14,15 @@ To run this text based project on your device:
 1. Use a terminal/command-line.
 2. Type *"cd"* and then the location on your device that you want to download this project to.
 3. Enter *git clone https://github.com/lil-brumski/YOUR_NAME_USING_ASCII_CHARACTERS.git* in the file path that you've selected.
-4. You can run the project either with the terminal or an IDE. Run the *main.cpp* file.
-5. Make sure all files are in the same folder.
-
+4. Run *mkdir build && cd build/".
+5. Run *cmake .. && make* in the *build/* directory.
 
 __Made by David Tamaratare Oghenebrume;
 A Computer Engineering Student of Rivers State University, Nigeria.__
 
-*Project Development Duration: April 14th - April 16th, April 26th(4 days):*
+*This project is complete. 57 files ready*
 
-*1st day: 6 files.*
 
-*2nd day: 3 files.*
+__Total lines: ? lines__
 
-*3rd day: 19 files.*
-
-*4th day: 1 file.*
-
-*This project is complete. 29/29 files ready*
-
-A.h -> F.h: 203 lines (134 lines used)
-
-G.h -> L.h: 178 lines (110 lines used)
-
-M.h -> R.h: 185 lines (115 lines used)
-
-S.h -> X.h: 191 lines (116 lines used)
-
-Y.h -> Z.h && SPACE.h: 83 lines (53 lines used)
-
-boolean_functions.h: 29 lines (24 lines used)
-
-main.cpp:  144 lines (139 lines)
-
-__Total lines: 1013 lines__
-
-__Total lines with code or comment: 691 lines__
+__Total lines with code or comment: ? lines__
