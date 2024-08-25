@@ -14,7 +14,7 @@ To run this text based project on your device:
 1. Use a terminal/command-line.
 2. Type *"cd"* and then the location on your device that you want to download this project to.
 3. Enter *git clone https://github.com/lil-brumski/YOUR_NAME_USING_ASCII_CHARACTERS.git* in the file path that you've selected.
-4. Run *mkdir build && cd build/".
+4. Run *mkdir build && cd build/*.
 5. Run *cmake .. && make* in the *build/* directory.
 
 __Made by David Tamaratare Oghenebrume;
