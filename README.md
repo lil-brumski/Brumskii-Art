@@ -28,4 +28,4 @@ __Total lines: 1118 lines__
 
 __Lines of code: 737 lines__
 
-__Lined with code and comment: 750 lines__
+__Lines with code and comment: 750 lines__
