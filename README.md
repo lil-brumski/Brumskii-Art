@@ -16,7 +16,7 @@ To run this text based project on your device:
 1. Use a terminal/command-line.
 2. Type `cd` and then the location on your device that you want to download this project to.
 3. Enter `git clone https://github.com/lil-brumski/Brumskii-Art.git` in the file path that you've selected and type `cd Brumskii-Art/`.
-4. Run *mkdir build && cd build/*.
+4. Run `mkdir build && cd build/`.
 5. Run `cmake .. && make` in the *build/* directory.
 6. Give the `Brumskii-Art` file necessary permissions using `chmod +x Brumskii-Art` and enter `./Brumskii-Art`
 
