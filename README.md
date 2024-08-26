@@ -24,6 +24,8 @@ A Computer Engineering Student of Rivers State University, Nigeria.__
 *This project is complete. 57 files ready*
 
 
-__Total lines: ?__
+__Total lines: 1118 lines__
 
-__Total lines with code or comment: ?__
+__Lines of code: 737 lines__
+
+__Lined with code and comment: 750 lines__
