@@ -1,10 +1,8 @@
-#ifndef LETTER_Q
-#define LETTER_Q
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 	 
 void Q();
 
-#endif
     

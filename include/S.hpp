@@ -1,10 +1,8 @@
-#ifndef LETTER_S
-#define LETTER_S
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 	 
 void S();
 
-#endif
     

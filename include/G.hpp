@@ -1,9 +1,7 @@
-#ifndef LETTER_G
-#define LETTER_G
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 	 
 void G();
 
-#endif

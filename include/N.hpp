@@ -1,9 +1,6 @@
-#ifndef LETTER_N
-#define LETTER_N
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 	 
 void N();
-
-#endif

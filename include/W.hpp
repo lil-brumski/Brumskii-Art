@@ -1,9 +1,6 @@
-#ifndef LETTER_W
-#define LETTER_W
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 
 void W();
-
-#endif

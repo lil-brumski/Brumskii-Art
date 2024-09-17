@@ -1,11 +1,10 @@
-#ifndef LETTER_J
-#define LETTER_J
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 	 
 void J();
 
-#endif
+
     
     

@@ -1,9 +1,7 @@
-#ifndef LETTER_K
-#define LETTER_K
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 	 
 void K();
 
-#endif

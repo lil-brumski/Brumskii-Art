@@ -1,5 +1,4 @@
-#ifndef BOOL_FUNC
-#define BOOL_FUNC
+#pragma once
 
 #include <iostream>
 #include <cctype>
@@ -10,5 +9,3 @@ bool isLettersOnly(const std::string& input);
 
 //Checks if the user enter two or more consecutive spaces as their name.
 bool hasConsecutiveSpaces(const std::string& str);
-
-#endif

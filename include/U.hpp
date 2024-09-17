@@ -1,9 +1,7 @@
-#ifndef LETTER_U
-#define LETTER_U
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 
 void U();
 
-#endif

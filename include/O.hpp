@@ -1,10 +1,7 @@
-#ifndef LETTER_O
-#define LETTER_O
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 	 
 void O();
 
-#endif
-    

@@ -1,9 +1,6 @@
-#ifndef LETTER_Y
-#define LETTER_Y
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 
 void Y();
-
-#endif

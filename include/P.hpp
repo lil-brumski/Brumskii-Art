@@ -1,10 +1,7 @@
-#ifndef LETTER_P
-#define LETTER_P
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 	 
 void P();
-
-#endif
     

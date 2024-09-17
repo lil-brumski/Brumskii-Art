@@ -1,9 +1,6 @@
-#ifndef LETTER_E
-#define LETTER_E
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 	 
 void E();
-
-#endif

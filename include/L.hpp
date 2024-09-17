@@ -1,9 +1,6 @@
-#ifndef LETTER_L
-#define LETTER_L
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 	 
 void L();
-
-#endif

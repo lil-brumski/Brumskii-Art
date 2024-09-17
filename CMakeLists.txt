@@ -8,6 +8,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 file(GLOB SOURCES "src/*.cpp")
 
-add_executable(Brumskii-Art main.cpp ${SOURCES})
+add_executable(Brumskii-Art.o main.cpp ${SOURCES})
 
-target_include_directories(Brumskii-Art PRIVATE include)
+target_include_directories(Brumskii-Art.o PRIVATE include)

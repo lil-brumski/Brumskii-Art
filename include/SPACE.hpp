@@ -1,9 +1,6 @@
-#ifndef _SPACE
-#define _SPACE
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 	 
 void SPACES();
-
-#endif

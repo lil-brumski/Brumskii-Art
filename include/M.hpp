@@ -1,9 +1,6 @@
-#ifndef LETTER_M
-#define LETTER_M
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 	 
 void M();
-
-#endif

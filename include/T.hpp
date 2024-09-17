@@ -1,9 +1,6 @@
-#ifndef LETTER_T
-#define LETTER_T
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 
 void T();
-
-#endif

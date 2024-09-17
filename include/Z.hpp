@@ -1,9 +1,6 @@
-#ifndef LETTER_Z
-#define LETTER_Z
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 
 void Z();
-
-#endif

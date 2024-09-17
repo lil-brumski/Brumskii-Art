@@ -1,8 +1,6 @@
-#ifndef LETTER_F
-#define LETTER_F
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 	 
 void F();
-#endif

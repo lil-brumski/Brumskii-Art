@@ -1,10 +1,8 @@
-#ifndef LETTER_R
-#define LETTER_R
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 	 
 void R();
 
-#endif
     

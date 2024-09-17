@@ -1,9 +1,6 @@
-#ifndef LETTER_V
-#define LETTER_V
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 
 void V();
-
-#endif

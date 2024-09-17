@@ -1,9 +1,6 @@
-#ifndef LETTER_B
-#define LETTER_B
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 
 void B();
-
-#endif

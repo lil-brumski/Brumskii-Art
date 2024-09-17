@@ -1,9 +1,6 @@
-#ifndef LETTER_D
-#define LETTER_D
+#pragma once
 
 #include <iostream>
 #include <iomanip>
 	 
 void D();
-
-#endif
