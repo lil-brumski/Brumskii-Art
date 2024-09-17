@@ -18,7 +18,7 @@ To run this text based project on your device:
 3. Enter `git clone https://github.com/lil-brumski/Brumskii-Art.git` in the file path that you've selected and type `cd Brumskii-Art/`.
 4. Run `mkdir build && cd build/`.
 5. Run `cmake .. && make` in the `build/` directory.
-6. Give the `Brumskii-Art.0` file necessary permissions using `chmod +x Brumskii-Art.o` and enter `./Brumskii-Art`
+6. Give the `Brumskii-Art.o` file necessary permissions using `chmod +x Brumskii-Art.o` and enter `./Brumskii-Art.o`
 
 __Made by David Tamaratare Oghenebrume;
 A Computer Engineering Student of Rivers State University, Nigeria.__
