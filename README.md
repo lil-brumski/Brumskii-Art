@@ -2,7 +2,7 @@
 
 This project is meant for taking a user's name and displaying it back using ASCII characters.
 
-![Output](https://github.com/lil-brumski/Brumskii-Art/tree/main/media%2FBrumskii-Art.gif)
+![Output](media/Brumskii-Art.gif)
 
 Things required to use this project: 
 
