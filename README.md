@@ -2,6 +2,8 @@
 
 This project is meant for taking a user's name and displaying it back using ASCII characters.
 
+![Output](https://github.com/lil-brumski/Brumskii-Art/tree/main/media%2FBrumskii-Art.gif)
+
 Things required to use this project: 
 
 - 1. A C++ compiler e.g clang, gcc, etc.
@@ -33,12 +35,3 @@ In summary:
 
 __Made by David Tamaratare Oghenebrume;
 A Computer Engineering Student of Rivers State University, Nigeria.__
-
-*This project is complete. 57 files ready*
-
-
-__Total lines: 1118 lines__
-
-__Lines of code: 737 lines__
-
-__Lines with code and comment: 750 lines__
